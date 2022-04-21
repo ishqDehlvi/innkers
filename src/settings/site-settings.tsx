@@ -5,17 +5,17 @@ import { USFlag } from "@components/icons/USFlag";
 import { DEFlag } from "@components/icons/DEFlag";
 import { ESFlag } from "@components/icons/ESFlag";
 export const siteSettings = {
-	name: "Tasteofabric",
+	name: "ChawkBazar",
 	description:
-		"Best Corporate gifting website in all over India with the fastest delivery rate",
+		"Fastest E-commerce template built with React, NextJS, TypeScript, React-Query and Tailwind CSS.",
 	author: {
-		name: "Tasteofabric",
-		websiteUrl: "https://tasteofabric.com",
+		name: "RedQ, Inc.",
+		websiteUrl: "https://redq.io",
 		address: "",
 	},
 	logo: {
 		url: "/assets/images/logo.svg",
-		alt: "Tasteofabric",
+		alt: "ChawkBazar",
 		href: "/",
 		width: 95,
 		height: 30,
